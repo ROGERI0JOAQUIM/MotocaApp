@@ -1,0 +1,7 @@
+{
+  "name": "motocaApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
